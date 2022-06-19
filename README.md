@@ -1,3 +1,11 @@
+Add The follwing line to server project on web hosting
+{
+  "name": "your-project-name",
+  "version": "0.1.0",
+  "homepage": "./", # <--- Add this line ----
+  ...
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
