@@ -1,8 +1,13 @@
 Add The follwing line to server project on web hosting
+
 {
+  
   "name": "your-project-name",
+  
   "version": "0.1.0",
+  
   "homepage": "./", # <--- Add this line ----
+  
   ...
 
 
