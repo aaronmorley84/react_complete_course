@@ -1,5 +1,12 @@
 .new-expense {
-    background-color: #4b4b4b;
+    background: linear-gradient(45deg, 
+      white    20%,
+      rgb(199, 194, 194)    30%,
+      rgba(63,73,164,0.7) 30%,
+      rgba(63,73,164,0.7) 34%,
+      rgb(199, 194, 194)    34%,
+      black 100%
+      );
     padding: 1rem;
     margin: 2rem auto;
     width: 50rem;
